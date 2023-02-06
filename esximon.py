@@ -2,7 +2,7 @@
 
 import shodan
 
-SHODAN_API_KEY = "PUT HERE YOUR API KEY OF"
+SHODAN_API_KEY = "PUT HERE YOUR API KEY"
 api = shodan.Shodan(SHODAN_API_KEY)
 
 while True:
